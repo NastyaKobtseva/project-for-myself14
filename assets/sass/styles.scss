@@ -11,7 +11,10 @@
     background-size: cover;
     padding-bottom: 200px;
 }
-
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
 .all-header {
     padding: 0 165px;
 }
@@ -189,7 +192,7 @@ a {
     align-items: flex-end;
     justify-content: center;
     gap: 160px;
-    padding-bottom: 301px;
+    padding-bottom: 224px;
 }
 .text1-info {
     color: rgba(77, 83, 60, 0.90);
@@ -309,8 +312,7 @@ a {
 .title-text-all {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 133px;
+    justify-content: space-between;
     padding-bottom: 122px;
 }
 .title-all {
@@ -535,7 +537,7 @@ a {
     display: flex;
     justify-content: center;
     gap: 140px;
-    padding-bottom: 400px;
+    padding-bottom: 213px;
 }
 .photo-text-all-block {
     position: relative;
@@ -602,6 +604,8 @@ a {
     line-height: 34px;
     padding-bottom: 20px;
     text-transform: uppercase;
+    width: 180px;
+    height: 80px;
 }
 .text-block-city {
     color: rgba(33, 56, 66, 0.60);
@@ -611,6 +615,7 @@ a {
     font-weight: 400;
     line-height: 26px;
     padding-bottom: 56px;
+    height: 160px;
 }
 .text2-block-city {
     color: rgba(33, 56, 66, 0.60);
@@ -620,6 +625,7 @@ a {
     font-weight: 400;
     line-height: 26px;
     padding-bottom: 30px;
+    height: 160px;
 }
 .text3-block-city {
     color: rgba(33, 56, 66, 0.60);
@@ -629,6 +635,7 @@ a {
     font-weight: 400;
     line-height: 26px;
     padding-bottom: 56px;
+    height: 160px;
 }
 .text4-block-city {
     color: rgba(33, 56, 66, 0.60);
@@ -638,6 +645,7 @@ a {
     font-weight: 400;
     line-height: 26px;
     padding-bottom: 30px;
+    height: 160px;
 }
 .link-block-city {
     display: flex;

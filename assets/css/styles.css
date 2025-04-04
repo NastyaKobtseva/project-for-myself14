@@ -11,10 +11,12 @@
   background-size: cover;
   padding-bottom: 200px;
 }
+
 .container {
   width: 1200px;
   margin: 0 auto;
 }
+
 .all-header {
   padding: 0 165px;
 }
@@ -987,4 +989,4 @@ a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-}/*# sourceMappingURL=styles.css.map */
+}
